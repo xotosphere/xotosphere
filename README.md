@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, welcome to the xotosphere organization</h1>
+<h2 align="center">Hi 👋, welcome to the xotosphere organization</h2>
+<h6 align="center">Feel free to explore the planets 🌎</h6>
 
 <br><br>
 
