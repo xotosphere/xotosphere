@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, Welcome to the xotosphere organization</h1>
 <h4 align="center">Feel free to explore our planets 🌎</h4>
 
-<h2 align="center">- 🔭 @xotoboil : a set of boilerplates</h2>
-<h2 align="center">- 🌱 @xotocred : credential based items</h2>
-<h2 align="center">- 👯 @xotocrypt : cryptography sphere</h2>
-<h2 align="center">- 🤝 @xotodesign : design projects</h2>
-<h2 align="center">- 👨‍💻 @xotodev : development ideas and more</h2>
-<h2 align="center">- 📝 @xotoenv : environment principles</h2>
-<h2 align="center">- 💬 @xotomachine : machine based apps</h2>
-<h2 align="center">- 📫 @xotomicro : mciroservice software</h2>
-<h2 align="center">- 📄 @xotopedia : encyclopedia of things !</h2>
-<h2 align="center">- ⚡ @xotopost : job worth knowing</h2>
-<h2 align="center">- 🎫 @xotoprod : production assets</h2>
-<h2 align="center">- 🦁 @xotoscript : scripts for everyone</h2>
-<h2 align="center">- 🆘 @xotoshare : sharing code like its never been done before</h2>
-<h2 align="center">- 💺 @xototemp : temporary bin</h2>
-<h2 align="center">- 🆚 @xotoverse : universe overlooking each software planet</h2>
+<h7 align="center">- 🔭 @xotoboil : a set of boilerplates</h7>
+<h7 align="center">- 🌱 @xotocred : credential based items</h7>
+<h7 align="center">- 👯 @xotocrypt : cryptography sphere</h7>
+<h7 align="center">- 🤝 @xotodesign : design projects</h7>
+<h7 align="center">- 👨‍💻 @xotodev : development ideas and more</h7>
+<h7 align="center">- 📝 @xotoenv : environment principles</h7>
+<h7 align="center">- 💬 @xotomachine : machine based apps</h7>
+<h7 align="center">- 📫 @xotomicro : mciroservice software</h7>
+<h7 align="center">- 📄 @xotopedia : encyclopedia of things !</h7>
+<h7 align="center">- ⚡ @xotopost : job worth knowing</h7>
+<h7 align="center">- 🎫 @xotoprod : production assets</h7>
+<h7 align="center">- 🦁 @xotoscript : scripts for everyone</h7>
+<h7 align="center">- 🆘 @xotoshare : sharing code like its never been done before</h7>
+<h7 align="center">- 💺 @xototemp : temporary bin</h7>
+<h7 align="center">- 🆚 @xotoverse : universe overlooking each software planet</h7>
 
 <br><br>
 
