@@ -1,4 +1,23 @@
-<h1 align="center">Hi 👋, welcome to the xotosphere organization</h1>
+<h1 align="center">Hi 👋,</h1>
+<h2 align="center">Welcome to the xotosphere organization</h2>
+<h5 align="center">Feel free to explore our planets 🌎</h5>
+
+- 🔭 @xotoboil : a set of boilerplates 
+- 🌱 @xotocred : credential based items 
+- 👯 @xotocrypt : cryptography sphere
+- 🤝 @xotodesign : design projects
+- 👨‍💻 @xotodev : development ideas and more 
+- 📝 @xotoenv : environment principles 
+- 💬 @xotomachine : machine based apps
+- 📫 @xotomicro : mciroservice software
+- 📄 @xotopedia : encyclopedia of things !
+- ⚡ @xotopost : job worth knowing 
+- 🎫 @xotoprod : production assets
+- 🦁 @xotoscript : scripts for everyone 
+- 🆘 @xotoshare : sharing code like its never been done before
+- 💺 @xototemp : temporary bin 
+- 🆚 @xotoverse : universe overlooking each software planet
+
 
 <br><br>
 
