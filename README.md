@@ -1,24 +1,22 @@
-<h1 align="center">Hi 👋, Welcome to the xotosphere organization</h1>
-<h4 align="center">Feel free to explore our planets 🌎</h4>
+<h2 align="center">Hi 👋, Welcome to the XOTOSPHERE organization</h2>
+<h3 align="center">Feel free to explore our planets 🌎</h3>
 
-<ul align="center">
-<li>🔭 @xotoboil : a set of boilerplates</li>
-<li>🌱 @xotocred : credential based items</li>
-<li>👯 @xotocrypt : cryptography sphere</li>
-<li>🤝 @xotodesign : design projects</li>
-<li>👨‍💻 @xotodev : development ideas and more</li>
-<li>📝 @xotoenv : environment principles</li>
-<li>💬 @xotomachine : machine based apps</li>
-<li>📫 @xotomicro : mciroservice software</li>
-<li>📄 @xotopedia : encyclopedia of things !</li>
-<li>⚡ @xotopost : job worth knowing</li>
-<li>🎫 @xotoprod : production assets</li>
-<li>🦁 @xotoscript : scripts for everyone</li>
-<li>🆘 @xotoshare : sharing code like its never been done before</li>
-<li>💺 @xototemp : temporary bin</li>
-<li>🆚 @xotoverse : universe overlooking each software planet</li>
-</ul>
 
+- 🔭 @xotoboil : a set of boilerplates
+- 🌱 @xotocred : credential based items
+- 👯 @xotocrypt : cryptography sphere
+- 🤝 @xotodesign : design projects
+- 👨‍💻 @xotodev : development ideas and more
+- 📝 @xotoenv : environment principles
+- 💬 @xotomachine : machine based apps
+- 📫 @xotomicro : mciroservice software
+- 📄 @xotopedia : encyclopedia of things !
+- ⚡ @xotopost : job worth knowing
+- 🎫 @xotoprod : production assets
+- 🦁 @xotoscript : scripts for everyone
+- 🆘 @xotoshare : sharing code like its never been done before
+- 💺 @xototemp : temporary bin
+- 🆚 @xotoverse : universe overlooking each software planet
 
 <br><br>
 
