@@ -49,7 +49,7 @@
 - 🧍🏼‍♂️ [@xotoguest](https://github.com/xotoguest) : guest space
 - 🔗 [@xotolink](https://github.com/xotolink) : link based items
 - 💰 [@xotonomy](https://github.com/xotonomy) : economy
-- 👏 [@xotosqad](https://github.com/xotosqad) : team members
+- 👏 [@xotosquad](https://github.com/xotosquad) : team members
 - 🧢 [@xotowear](https://github.com/xotowear) : wearable space
 - 🏡 [@xotopad](https://github.com/xotopad) : home share
 - 💬 [@xotomachine](https://github.com/xotomachine) : machine based apps
