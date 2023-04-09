@@ -34,5 +34,6 @@
 - 📖 [@xotoprog](https://github.com/xotoprog) : progress and learning of new material
 - 🔥 [@xotostack](https://github.com/xotostack) : stack of repos for xotosphere
 - 👩‍🎨 [@xotofront](https://github.com/xotofront) : front end technologies for xotosphere
+- 🧢 [@xotoback](https://github.com/xotoback) : back end technologies for xotosphere
 - 🎨 [@xotovim](https://github.com/xotovim) : xotovim are neovim configurations!
 
