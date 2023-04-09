@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, Welcome to the Xotosphere organization</h2>
 <h3 align="center">feel free to explore our planets 🌎</h3>
 
-<br><br>
+
 
 <div align="center">
 an organization based on the same structure of the humble volume we live in : 
@@ -11,7 +11,7 @@ an organization based on the same structure of the humble volume we live in :
 </div>
 
 
-
+<br><br>
 <hr>
 
 
