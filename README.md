@@ -10,6 +10,7 @@ an organization based on the same structure of the humble volume we live in :
 
 <br><br>
 <hr>
+<br><br>
 
 ```bash
 # structure 🚀 :
@@ -17,7 +18,7 @@ an organization based on the same structure of the humble volume we live in :
 --- xotoverse : middle spaces where diverse subjects live (universe)
 ----- xotoapp : github organizations with a cluster of apps based on their designated universe subject (planets)
 ```
-
+<br><br>
 <hr>
 
 <br><br>
