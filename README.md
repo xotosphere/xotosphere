@@ -45,7 +45,7 @@
 - 💠 [@xotobio](https://github.com/xotobio) : green it tech
 - 🙏 [@xotocare](https://github.com/xotocare) : care based projects
 - 📝 [@xotoenv](https://github.com/xotoenv) : environment principles
-- ✅ [@xotocharge](https://github.com/xotocharge) : buisness todos
+- ✅ [@xotocharge](https://github.com/xotocharge) : business todos
 - 🧍🏼‍♂️ [@xotoguest](https://github.com/xotoguest) : guest space
 - 🔗 [@xotolink](https://github.com/xotolink) : link based items
 - 💰 [@xotonomy](https://github.com/xotonomy) : economy
@@ -59,7 +59,7 @@
 - 🧍🏼‍♂️ [@xotojob](https://github.com/xotojob) : jobs worth knowing
 - 🦁 [@xotoscript](https://github.com/xotoscript) : scripts for everyone
 - 🆘 [@xotoshare](https://github.com/xotoshare) : sharing code like its never been done before
-- 💺 [@xototemp](https://github.com/xototemp) : temporary bin
+- 💺 [@xotobusinesstemp](https://github.com/xototemp) : temporary bin
 - 📖 [@xotoprog](https://github.com/xotoprog) : progress and learning of new material
 - 🔥 [@xotostack](https://github.com/xotostack) : stack of repos for xotosphere
 - 👩‍🎨 [@xotofront](https://github.com/xotofront) : front end technologies for xotosphere
