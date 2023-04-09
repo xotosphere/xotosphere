@@ -32,7 +32,7 @@
 
 
 
-<h3>Feel free to explore our planets 🌎 :</h3>
+<h4>Feel free to explore our planets 🌎 :</h4>
 
 
 
