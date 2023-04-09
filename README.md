@@ -1,7 +1,4 @@
-<h2 align="center">Hi 👋, Welcome to the Xotosphere organization</h2>
-<h3 align="center">Feel free to explore our planets 🌎</h3>
-
-
+<h2 align="center">Hi 👋, Welcome to the Xotosphere organization. Feel free to explore our planets 🌎</h2>
 
 <div align="center">
 an organization based on the same structure of the humble volume we live in : 
@@ -14,8 +11,6 @@ an organization based on the same structure of the humble volume we live in :
 <br><br>
 <hr>
 
-
-
 ```bash
 # structure 🚀 :
 - xotosphere : full profile or our company (sphere)
@@ -23,8 +18,6 @@ an organization based on the same structure of the humble volume we live in :
 ----- xotoapp : organization with a cluster of apps (planets)
 ```
 
-  
-  
 <hr>
 
 <br><br>
