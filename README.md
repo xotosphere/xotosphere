@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, Welcome to the Xotosphere organization</h2>
+<h2 align="center">Hi 👋, Welcome to the Xotosphere</h2>
 
 <div align="center">
 
