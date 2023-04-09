@@ -11,13 +11,10 @@
 - 🌱 [@xotocred](https://github.com/xotocred) : credential based items
 - 👯 [@xotocrypt](https://github.com/xotocrypt) : cryptography sphere
 - ⛺️ [@xotobase](https://github.com/xotobase) : root space
-- 🤝 [@xotodesign](https://github.com/xotodesign) : design projects
 - 🫘 [@xotobean](https://github.com/xotobean) : bean project
 - 💠 [@xotobio](https://github.com/xotbio) : green it tech
 - 🙏 [@xotocare](https://github.com/xotocare) : care based projects
-- 👨‍💻 [@xotodev](https://github.com/xotodev) : development ideas and more
 - 📝 [@xotoenv](https://github.com/xotoenv) : environment principles
-- 📙 [@xotodo](https://github.com/xotodo) : items todo
 - ✅ [@xotocharge](https://github.com/xotocharge) : buisness todos
 - 🧍🏼‍♂️ [@xotoguest](https://github.com/xotoguest) : guest space
 - 🔗 [@xotolink](https://github.com/xotolink) : link based items
@@ -28,8 +25,8 @@
 - 💬 [@xotomachine](https://github.com/xotomachine) : machine based apps
 - 📫 [@xotomicro](https://github.com/xotomicro) : microservice software
 - 📄 [@xotopedia](https://github.com/xotopedia) : encyclopedia of things
-- ⚡ [@xotopost](https://github.com/xotopost) : job worth knowing
-- 🎫 [@xotoprod](https://github.com/xotoprod) : production assets
+- ⚡ [@xotopost](https://github.com/xotopost) : current job work
+- 🧍🏼‍♂️ [@xotojob](https://github.com/xotojob) : jobs worth knowing
 - 🦁 [@xotoscript](https://github.com/xotoscript) : scripts for everyone
 - 🆘 [@xotoshare](https://github.com/xotoshare) : sharing code like its never been done before
 - 💺 [@xototemp](https://github.com/xototemp) : temporary bin
