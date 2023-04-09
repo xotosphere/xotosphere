@@ -42,7 +42,7 @@
 - 👯 [@xotocrypt](https://github.com/xotocrypt) : cryptography sphere
 - ⛺️ [@xotobase](https://github.com/xotobase) : root space
 - 🫘 [@xotobean](https://github.com/xotobean) : bean project
-- 💠 [@xotobio](https://github.com/xotbio) : green it tech
+- 💠 [@xotobio](https://github.com/xotobio) : green it tech
 - 🙏 [@xotocare](https://github.com/xotocare) : care based projects
 - 📝 [@xotoenv](https://github.com/xotoenv) : environment principles
 - ✅ [@xotocharge](https://github.com/xotocharge) : buisness todos
