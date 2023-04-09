@@ -16,7 +16,7 @@ an organization based on the same structure of the humble volume we live in :
 # structure 🚀 :
 - xotosphere : full profile (sphere)
 --- xotoverse : middle spaces where diverse subjects live (universe)
------ xotoapp : github organizations with a cluster of apps based on their designated universe subject (planets)
+----- xotoapp : github organizations with a cluster of apps based on their designated universe subject (planet)
 ```
 <br><br>
 <hr>
