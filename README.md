@@ -11,9 +11,9 @@ an organization based on the same structure of the humble volume we live in : [h
 
 ```bash
 # structure 🚀 :
-- xotosphere : full profile or our company
---- xotoverse : middle space in which a cluster of subjects live
------ xotoapp : organization based on specific need
+- xotosphere : full profile or our company (sphere)
+--- xotoverse : middle space in which a cluster of subjects live (universe)
+----- xotoapp : organization with a cluster of apps (planets)
 ```
 
 <hr>
