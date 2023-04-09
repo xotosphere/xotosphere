@@ -1,6 +1,7 @@
-<h2 align="center">Hi 👋, Welcome to the Xotosphere organization. Feel free to explore our planets 🌎</h2>
+<h2 align="center">Hi 👋, Welcome to the Xotosphere organization</h2>
 
 <div align="center">
+Feel free to explore our planets 🌎
 an organization based on the same structure of the humble volume we live in : 
   
   - [humble volume](https://en.wikipedia.org/wiki/Hubble_volume#:~:text=The%20Hubble%20volume%20is%20approximately,about%201079%20cubic%20meters)
