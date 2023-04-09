@@ -1,13 +1,17 @@
 <h2 align="center">Hi 👋, Welcome to the Xotosphere organization</h2>
 
 <div align="center">
-Feel free to explore our planets 🌎
+
  
-an organization based on the same structure of the humble volume we live in : 
+ an organization based on the same structure of the humble volume we live in : 
+
+ 
+   - [humble volume](https://en.wikipedia.org/wiki/Hubble_volume#:~:text=The%20Hubble%20volume%20is%20approximately,about%201079%20cubic%20meters)
+
+
+
+ 
 </div>
-
-  - [humble volume](https://en.wikipedia.org/wiki/Hubble_volume#:~:text=The%20Hubble%20volume%20is%20approximately,about%201079%20cubic%20meters)
-
 
 
 <br><br>
@@ -32,6 +36,11 @@ an organization based on the same structure of the humble volume we live in :
 <hr>
 
 <br><br>
+
+
+<h3>Feel free to explore our planets 🌎 :</h3>
+
+
 
 - 🆚 [@xotoverse](https://github.com/xotoverse) : universe overlooking each software planet
 - 🔭 [@xotoboil](https://github.com/xotoboil) : a set of boilerplates
