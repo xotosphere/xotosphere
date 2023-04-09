@@ -2,7 +2,6 @@
 <h3 align="center">feel free to explore our planets 🌎</h3>
 
 <br><br>
-<hr>
 
 <div align="center">
 an organization based on the same structure of the humble volume we live in : 
@@ -10,6 +9,11 @@ an organization based on the same structure of the humble volume we live in :
   [humble volume](https://en.wikipedia.org/wiki/Hubble_volume#:~:text=The%20Hubble%20volume%20is%20approximately,about%201079%20cubic%20meters)
   
 </div>
+
+
+
+<hr>
+
 
 
 ```bash
