@@ -60,6 +60,7 @@
 - 🦁 [@xotoscript](https://github.com/xotoscript) : scripts for everyone
 - 🆘 [@xotoshare](https://github.com/xotoshare) : sharing code like its never been done before
 - 💺 [@xototemp](https://github.com/xototemp) : temporary bin
+- 🌱 [@xotomock](https://github.com/xotomock) : mocking projects
 - 📖 [@xotoprog](https://github.com/xotoprog) : progress and learning of new material
 - 🔥 [@xotostack](https://github.com/xotostack) : stack of repos for xotosphere
 - 👩‍🎨 [@xotofront](https://github.com/xotofront) : front end technologies for xotosphere
