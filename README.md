@@ -65,6 +65,6 @@
 - 🔥 [@xotostack](https://github.com/xotostack) : stack of repos for xotosphere
 - 👩‍🎨 [@xotofront](https://github.com/xotofront) : front end technologies for xotosphere
 - 🧢 [@xotoback](https://github.com/xotoback) : back end technologies for xotosphere
-- 🎨 [@xotovim](https://github.com/xotovim) : xotovim are neovim configurations!
-- 🪵 [@xotocamp](https://github.com/xotocamp) : xotocamp github cms idea!
+- 🎨 [@xotovim](https://github.com/xotovim) : xotovim are neovim configurations
+- 🪵 [@xotocamp](https://github.com/xotocamp) : xotocamp github cms idea
 
