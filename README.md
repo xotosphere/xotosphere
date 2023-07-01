@@ -53,6 +53,7 @@
 - 🧢 [@xotowear](https://github.com/xotowear) : wearable space
 - 🏡 [@xotopad](https://github.com/xotopad) : home share
 - 💬 [@xotomachine](https://github.com/xotomachine) : machine based apps
+- 👾 [@xotomux](https://github.com/xotomux) : tmux plugins and creations
 - 📫 [@xotomicro](https://github.com/xotomicro) : microservice software
 - 📄 [@xotopedia](https://github.com/xotopedia) : encyclopedia of things
 - ⚡ [@xotopost](https://github.com/xotopost) : current job work
