@@ -44,7 +44,7 @@
 - 🫘 [@xotobean](https://github.com/xotobean) : bean project
 - 💠 [@xotobio](https://github.com/xotobio) : green it tech
 - 🙏 [@xotocare](https://github.com/xotocare) : care based projects
-- 🏡 [@xotocare](https://github.com/xotodot) : dot files
+- 🏡 [@xotodot](https://github.com/xotodot) : dot files
 - 📝 [@xotoenv](https://github.com/xotoenv) : environment principles
 - ✅ [@xotocharge](https://github.com/xotocharge) : business todos
 - 🧍🏼‍♂️ [@xotoguest](https://github.com/xotoguest) : guest space
