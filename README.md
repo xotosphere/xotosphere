@@ -36,7 +36,6 @@
 
 
 
-- 🆚 [@xotoverse](https://github.com/xotoverse) : universe overlooking each software planet
 - 🔭 [@xotoboil](https://github.com/xotoboil) : a set of boilerplates
 - 🌱 [@xotocred](https://github.com/xotocred) : credential based items
 - 👯 [@xotocrypt](https://github.com/xotocrypt) : cryptography sphere
