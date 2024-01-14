@@ -18,7 +18,7 @@
 
 ```bash
 # structure 🚀 :
-- xotoverse : full profile (verse)
+- xotoverse : top level company name (profile)
 --- xotosphere : middle spaces where diverse subjects live (organization)
 ----- xoto{app_name} : github organizations with a cluster of apps based on their designated universe subject (planet)
 ```
