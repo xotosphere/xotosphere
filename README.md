@@ -27,7 +27,7 @@
 <hr>
 
 
-Highlights :
+highlights :
 
 - https://github.com/xotoboil/xotoboil-multifront
 - https://github.com/xotoscript/xotoscript-action-release
