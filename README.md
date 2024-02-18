@@ -27,10 +27,10 @@
 <hr>
 
 
-<div align="center">
+<h2 align="center">
 Highlights :
 
-</div>
+</h2>
 
 - https://github.com/xotoboil/xotoboil-multifront
 - https://github.com/xotoscript/xotoscript-action-release
